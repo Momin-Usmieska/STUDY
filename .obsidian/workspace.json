@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "f759b88cb330d4d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b3afeaf182930e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d847814401442eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Related/Basics of Computer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ebffc9c31d2944a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdefdbe6d7d891ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5908d43c7af2b8d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d90bf01972948168",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "187cc200ffb18bf9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8e85bb81f995f27d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c25113f748b239fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71d0dfa3338d9266",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Related/Basics of Computer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4039b70f997adba1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Related/Basics of Computer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d8464a9c8e59124",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "452e2c3aa501bc69",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Related/Basics of Computer.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1d847814401442eb",
+  "lastOpenFiles": [
+    "Untitled 2",
+    "Untitled 1",
+    "Untitled",
+    "Computer Related/Basics of Computer.md",
+    "Assets/Attachments/Pasted image 20240927152959.png",
+    "Assets/Attachments",
+    "Assets",
+    "Attachments",
+    "Pasted image 20240927152418.png",
+    "Computer Related",
+    "Welcome.md"
+  ]
+}

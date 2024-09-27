@@ -1,0 +1,11 @@
+/* Adjust the margin for the main editor */
+.markdown-preview-view,
+.markdown-source-view {
+  margin: 0px;
+}
+
+/* Adjust the margin for the whole note container */
+.markdown-view {
+  margin: 10px 10px; /* Top & Bottom 20px, Left & Right 50px */
+}
+
