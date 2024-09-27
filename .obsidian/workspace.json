@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "8e85bb81f995f27d",
@@ -148,10 +149,10 @@
   },
   "active": "1d847814401442eb",
   "lastOpenFiles": [
+    "Computer Related/Basics of Computer.md",
     "Untitled 2",
     "Untitled 1",
     "Untitled",
-    "Computer Related/Basics of Computer.md",
     "Assets/Attachments/Pasted image 20240927152959.png",
     "Assets/Attachments",
     "Assets",
